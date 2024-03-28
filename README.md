@@ -14,6 +14,13 @@ Functional programming has gained many fans in the last few years. This paradigm
 
 When we use functions in our projects, specific responsibilities can be assigned to each function, and functions can provide different outputs to other parts of the program using the arguments they receive. Programs in which functions are used correctly are easier to debug than traditional programming methods. Functional programming has worked well in object-oriented programming, but this paradigm cannot be used in all situations.
 
+# Simple is beautiful
+
+There is a sentence of Plato with the theme that "harmony, external beauty, elegance and balance all depend on simplicity." And if this sentence is used by programmers, it will have many benefits for them, including more readability of codes, easier maintenance of scripts, increased coding speed, and finally higher quality of written codes. All these things - and even more things - are not possible except by applying this view of Plato, that is, simplicity.
+
+Now we have to answer the question of what kind of code the beautiful adjective refers to. This question is very abstract because the concept of beauty is something completely relative. Artists' understanding of beauty is far different from that of engineers or programmers. Therefore, it is necessary to solve the problem of beauty in programming a little!
+
+To understand this better, it is better to visit GitHub and see some scripts written by programmers from different parts of the world. By comparing different codes, you will notice that there are some programmers who follow a set of rules well, and this issue leads to the code written by them looking more beautiful. It is interesting to know that the simpler the code, the more beautiful it looks. Although there are some programs that are very complex and do strange things that make people wonder, but if we divide these programs into smaller parts, we will see that if the programmer of that program was a professional and Simplicity has faith in coding, the small parts of the program are completely simple and understandable, each module has a specific task, different parts such as classes, methods and variables are well named so that if other programmers look at the source code , they will easily understand the task of each part of the code. In short, beautiful code is code that is simple. Different parts of the software should have simple relationships with other parts and be easy to understand.
 
 # What is the user's need?
 
