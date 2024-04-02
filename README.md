@@ -32,6 +32,36 @@ It seems that if the programmers follow such an approach, the quality of the cod
 
 In programming teams, after adopting an approach like the one mentioned above, an atmosphere should be created that even if one team member wants to do messy coding, he will be embarrassed by the other team members and correct himself, just like Situations that happen at a fancy party: Does someone throw cucumber skins on the parquet after eating them? Never!
 
+# Choose the right tool
+
+Many of the software and applications that we see today and have achieved relatively good success, their coding was never started from scratch, but such software was developed using existing tools - here we mean the tools of components, libraries, frameworks. and... are made. In this regard, when we intend to start a project, we must choose the most appropriate tools for our project, and the bigger our project, the greater the need for research in this field.
+
+Regarding the reasons why some projects are not coded from scratch and use existing components and libraries, the following can be mentioned:
+
+1- Software and applications grow over time, become more complex and eventually become more professional compared to their beta version, while the time allocated for the development of such software and applications becomes more and more limited. . It seems more logical if programmers spend more time on coding the infrastructure of the project (which is somewhat similar in most projects), to focus on coding specific parts of their project.
+
+2- The components and frameworks that are used all over the world have far less bugs than the code that a freelance programmer writes in his office!
+
+3- Many frameworks available in the market are provided to developers for free, and the same issue indicates that the costs related to the development of a project will be greatly reduced.
+
+4- The development of the project infrastructure in various fields such as security, efficiency, etc. is a sensitive, precise, time-consuming and costly task, but if you use free and open source components, you can ensure the timely and structural update of your project. do.
+
+keep in mind
+It should be noted that the Facebook company first used PHP programming language to program this social network, but after this network opened its place among users and achieved huge revenue generation, the managers of this company decided to use a proprietary language. They developed this company under the name of Hack and built the Facebook social network on it.
+
+What is certain is that choosing a combination of available tools for application development is a sensitive task and requires experience in this field. For this purpose, we have brought you the following solutions that can help you choose the tool you want:
+
+*- Each tool will have the best effectiveness in a specific platform. What we mean here by the platform is the database structure, communication protocols, server, web service, API, etc., so there is a possibility that the tool you have chosen is not compatible with your software development platform, and this problem leads to Your project will become more complex.
+
+*- The tools that we see today have a certain lifespan, and when an update for them is released to the market or a new version of them is available to developers, it is possible - if not necessarily so - to see many changes compared to the version Let's face it, sometimes new versions of a specific tool - for example, a programming framework - have many structural changes compared to the previous version, which makes them completely incomparable. For example, the Laravel web programming framework has completely changed the structure of this framework in version 5, and this is the case if you have been using version 4 of this framework and now you intend to migrate to the latest version. , your whole project will be changed (note that the more frameworks and tools used in our project, the deeper this disaster will be!)
+
+*- Some of the available tools require configuration or adjustment, which may require spending considerable time and money.
+
+*- Some of the so-called free tools are not free as they should be. At first, we think that the tool in question is completely free and we start using it, but when the project reaches its critical points and requires the use of certain components, it will be discovered that part of the source code must be modified. buy from the original developer and this issue can overshadow the future of our software.
+
+*- Some tools create limitations for us after developing the software with them. For example, there are some software licenses that require the developers who use them to publish their software and its source code in a completely open and free way, which such a restriction will certainly not be pleasant for many developers!
+
+What is certain is that you will be the final decision maker, so you should develop as much as possible the codes that are related to the project infrastructure using the best available tools or frameworks and code the codes related to the specific module of your project personally.
 
 # What is the user's need?
 
