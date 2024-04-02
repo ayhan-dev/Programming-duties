@@ -1,3 +1,29 @@
+
+# Reuse your previous codes in appropriate situations
+
+Many professional software developers are used to writing reusable code. The existence of reusability in a piece of code allows us to use it in coding several different programs. When we say that professional programmers include such functionality in their code, we are saying that this is a positive thing, however, this issue should be carefully examined and see if this is correct under all circumstances. ?
+
+Is the reuse of codes always approved under any circumstances? To answer this question, we need to find out the advantages and disadvantages of such work and then choose one between reusing the already written codes and writing new codes by making the conditions light and heavy. Therefore, in this tutorial, we are going to talk about the advantages and disadvantages of reusing codes.
+
+Advantages
+Code reuse reduces coding time, which will reduce the costs of a programming project. Suppose you or another programming team worked on a problem and found an optimal answer for it, and now this answer is available to you. So there is no reason why you would want to search again for an answer to a solved problem.
+
+Reusing previously written and tested codes will greatly reduce the amount of possible program bugs. In general, the more lines of code written in a program, the more likely that there will be errors among those codes. When a piece of code is used in several different programs, that common part is tested over and over again in all programs, and the possibility of errors in it is reduced.
+
+Usually, reusable codes are divided into separate software libraries, so that any programmer can use these ready-made libraries according to their needs. The advantage of this work is that every programmer can code according to his strengths in a specific field. For example, security specialists can work on codes related to this field and share them with other programmers by producing powerful software libraries in the field of security, while, for example, UI specialists work on related issues. They focus on designing and optimizing user interfaces. Reusing codes appropriately and efficiently can help avoid unnecessary repetitions and redundant commands.
+
+Disadvantages
+Despite all the advantages that reuse of codes has for us, depending on different conditions, it is possible that this work is not only not useful for us, but also harms the program.
+
+Suppose we use a library of codes in several different parts of the program. This causes the code dependencies of these sections to increase. If we want to change or modify the common codes of some of these parts, we must be careful how this will affect other parts.
+
+It's possible that the library or framework you want to reuse in your application will be slower than expected, depending on the programming language or platform you're working on.
+
+If you use code that has already been written by other programmers, there will be security and reliability issues and usage permissions issues. In addition, the evaluation of these codes usually takes time and it is possible that you will notice weaknesses in the design and bugs of those codes after a long time.
+
+Managing code that is shared between different programs can create additional costs for the program. In addition, sometimes implementing and synchronizing these codes with your own code is too time consuming and requires a lot of work. However, as a programmer you have to find the skill to consider all aspects and choose whether you want to reinvent the wheel, or reuse it with a little modification and adaptation to your source code. do.
+
+
 # Technical Debt
 
 It often comes down to choosing between "doing a project properly" and "doing a project quickly," with speeding up the design process of a project seeming more attractive initially, arguing that later on, you can always go back to the code and fix any problems! However, experience has shown that when the word "later" arrives, it brings along with it numerous bugs and issues that the programmer must focus more on, leaving behind past - albeit minor - problems.
