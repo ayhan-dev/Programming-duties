@@ -109,7 +109,9 @@ This high speed of scientific growth and easier access to scientific resources h
 If we come to believe that no matter how professional we are in our work today, in the near future this level of knowledge and skill will be very little and will not create a competitive advantage for us compared to other programmers, then we should look for a way. Do things to increase your knowledge and skills. Fortunately, some employers, in order to support their human resources and help their business by spending money and time, conduct training courses and raise the scientific and skill level of their workforce. However, you may not have the chance to work with such teams and you have to find a way to learn new things yourself.
 
 Here we are going to introduce you some practical methods and useful resources so that you can use them to increase your level of knowledge and skill as a programmer. The list of these suggestions is as follows:
+
 1- Read books and magazines, visit blog posts, sites, and Twitter feeds that review news and new topics in the field of software and IT. Try to stay in touch with a community of programmers.
+
 2- If you really want to get to know a new technology, get your hands dirty with it! Start coding. Try to master them by trying new software.
 
 3- Always try to work with those who know more than you, because working with smarter and more experienced people and their supervision of your work creates the motivation to learn both in you and in Interacting with them, you can learn many lessons and gain useful information. When you are alone with people who have a lower level than you, you lose both your competitive motivation to learn and the fact that you probably have to spend all your time teaching them, which somehow prevents you from learning new topics. will be.
