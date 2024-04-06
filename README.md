@@ -1,3 +1,20 @@
+# Pay attention to the layout of the codes!
+
+If you have the experience of coding relatively large programs, you must have noticed that instead of writing new codes, you spent most of your time reviewing previous codes to make the necessary changes and fix their bugs. . One of the important factors that determine your speed and efficiency in code review is the code layout. A good layout with the correct indentation and the right amount of white space makes a huge difference in the time it takes to look at the commands in a code and understand what they mean. In this tutorial, we are going to propose ways to optimize the layout and arrangement of codes.
+
+Simplify code scanning:
+Let's say your team has written a program that has several different classes. When running program classes, it does not matter to the compiler whether public elements or private elements are defined first in the body of the class, or whether constants or fields or methods are defined first; In other words, the order of the components of a class doesn't matter to the compiler, but what about you?
+
+You should be aware that people are often good at adapting visual patterns, so one approach you can follow to make your code review easier is to define a pattern for placing application elements in your code, and have all team members When coding different parts of the program, follow that pattern. As an example, we can take the PHP programming language as an example. A site called php-fig.org has designed a standard called PSR, which stands for PHP Standard Recommendation, for PHP programmers. By using these standards, those interested can benefit from codes that other PHP programmers look at. They will be less confused by their codes
+
+To clarify this issue, we will give some examples from other programming languages. Most C++ programmers first put the definition of public methods in the body of their codes and below them the private methods, while this procedure is completely opposite in coding in C# language. Of course, note that we get these patterns experimentally from the teacher's resources when learning any language and follow them unintentionally, and following them makes other programmers easily read our codes, with Now you can define a special standard for yourself so that all team members follow it.
+
+Arrange the code so that it conveys the meaning of the code:
+One of the recommendations that programmers are always given is that when naming classes, variables, methods, and other program elements, use meaningful names that indicate as much as possible what each program element does. . You should know that the arrangement of the codes should also be such that the purpose of the codes is clearly defined as much as possible. If you write your code in a simple text editor, the trouble of setting up its layout is on you, but today most programmers use integrated development environments (IDE) like Eclipse, which can automatically arrange the layout. Determine the codes. However, our advice to you is to always keep in mind that these tools cannot understand what you mean by the code you have written, so sometimes you need to manually make changes to the code layout to understand what you mean. make it clear
+
+Compress your layout as much as possible:
+Most programmers enter each command in a separate line when they code in a development environment, as far as we can see, most of the commands do not even continue to the end of the line, so at the end of a program with There are many lines of code and countless empty spaces. However, you should know that the best approach is to compress your layout - to the extent that it does not harm the readability of the codes. The advantage of this work is that it becomes easier and faster to move between codes (especially in large programs), or for example, in web applications, the amount of data sent from the server to the clients, or the time Reduces page loading.
+
 
 # Reuse your previous codes in appropriate situations
 
