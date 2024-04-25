@@ -1,3 +1,19 @@
+# Write your programs in the language of customers!
+
+As a programmer, the owners of various industries and businesses will probably approach you and order you work. To carry out these orders that are related to the work processes of customers, you can model those processes using the capabilities of different programming languages. For example, the owner of a store may order you a program to control the goods in the store's warehouse. Therefore, you should model a warehouse in which purchased and stored goods are recorded and their status can be tracked until they are available in the warehouse. Our advice to you is to write your program in the language of the ordering customer in these cases.
+
+The purpose of writing your custom program in the language of the client is to use the terms of the client's business in the program codes and to implement his relationships and working procedures in the program. Let us clarify the matter with examples. Consider the example of a store. To model purchased items, we need to define a variable to store the name of the new item to be used later in other parts of the program. We know that we need a name to define any variable in programming. The best thing to do is to choose a name that represents what is supposed to be stored in the variable, and at the same time is known to the client, instead of using a meaningless name such as x. For example, let's name this variable new_product_name and store it in this variable with the arrival of each new product.
+```
+new_product_name = "gjg"
+//or
+new_product_name = "fa"
+```
+Do the same for procedures. For example, it is not the case that the warehouse staff keep all the purchased items in one section, but they store them in different sections according to the type of product. Perishable food in the cold room, creams in the hygiene department, fabrics in the textile department, etc. . . When it's your turn to model this procedure, you might think to yourself that placing items like food, toiletries, etc. together in this virtual model won't affect them. Therefore, instead of spending more time and writing more codes, to put the names of these products in separate tables in the database, you decide to put them all in one table so that when you want to know the status of a product Check that the program codes do not search one table more in the database instead of several database tables. This may be convenient for you, but keep in mind that this app is for the store owner, not you!
+
+It's best if your code explicitly simulates storage procedures in the warehouse. The advantage of this type of explicit coding and in accordance with the client's work routines is that, firstly, it makes it easier for you to correct errors and changes needed in the program (even if you forget how each piece of your code works and for what purpose). (slowly, you can refer to the client's work procedures and decipher its algorithm) Second, if another programmer replaces you to update the existing system, through familiarity with these work procedures, he will understand the meaning of your codes. He understands easily and he doesn't need to refer to you to interpret them or to rewrite a new program that he can understand!
+
+
+
 # Pay attention to the layout of the codes!
 
 If you have the experience of coding relatively large programs, you must have noticed that instead of writing new codes, you spent most of your time reviewing previous codes to make the necessary changes and fix their bugs. . One of the important factors that determine your speed and efficiency in code review is the code layout. A good layout with the correct indentation and the right amount of white space makes a huge difference in the time it takes to look at the commands in a code and understand what they mean. In this tutorial, we are going to propose ways to optimize the layout and arrangement of codes.
