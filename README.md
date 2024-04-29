@@ -13,6 +13,20 @@ Do the same for procedures. For example, it is not the case that the warehouse s
 It's best if your code explicitly simulates storage procedures in the warehouse. The advantage of this type of explicit coding and in accordance with the client's work routines is that, firstly, it makes it easier for you to correct errors and changes needed in the program (even if you forget how each piece of your code works and for what purpose). (slowly, you can refer to the client's work procedures and decipher its algorithm) Second, if another programmer replaces you to update the existing system, through familiarity with these work procedures, he will understand the meaning of your codes. He understands easily and he doesn't need to refer to you to interpret them or to rewrite a new program that he can understand!
 
 
+# Make your designs perfect
+
+In this article, we are going to talk about one of the current crises in the world of programming and software design. With the advancement of technology and the increasing dependence of people and industries on computers, the community of programmers has faced an increasing demand for the design of application software. Naturally, programmers who can write their codes faster and respond to the needs of more customers will benefit more from this market; But the speed of doing things has become a problem, and we have to see at what cost this increase in speed.
+
+Remember that coding is a creative work and the programmer creates a new design in every project. Therefore, in order to create a high-quality and reliable plan, planning should be done in advance, all aspects of the plan should be carefully examined, the best tools that can be used to implement the plan should be provided, and finally, all capabilities should be carefully considered. and facilities to be used and after finishing the work, test the designed software from different aspects to fix all its bugs and defects. But the crisis that the world of software design is facing is that many programmers ignore these procedures for the reason mentioned above to increase speed.
+
+Some programmers immediately start coding after accepting any project, without having a specific plan in mind. In writing each piece of the program, they think about which command can move the work forward. Regardless of whether the written codes are of the necessary quality and beauty, and if they can achieve the customer's desire to some extent, they continue to work and only think about changing the codes when they encounter a problem. do
+
+In fact, in these cases, the programmer uses the most accessible features of the programming language of his choice to organize his work and quickly deliver it to the customer. Customers, who often don't know anything about software design, only pay attention to the speed of the work, and at the end of the work, they inevitably end up with incomplete and incomplete results!
+
+Maybe these types of activities can be beneficial for programmers in the short term, but you should know that in the long run, they distinguish professional programmers from non-professional programmers. So try to create lasting and reliable designs. Your client may not use some of the software's features for a while and as a result may not notice its possible defects, but it is your duty to check your software carefully.
+
+You should know that the design of a software is not complete unless you test its quality from various aspects and control its performance when it is published. Advanced design languages and techniques will greatly help you to create complete and flawless designs and know the truth that regardless of code, great and great designs are created by great programmers who dedicate themselves to it. They are experts in their profession!
+
 
 # Pay attention to the layout of the codes!
 
