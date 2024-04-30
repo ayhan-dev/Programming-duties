@@ -1,3 +1,33 @@
+# Code reviews
+
+One of the important recommendations that is always given to programming teams is to hold code review meetings. Many organizations and software companies place special emphasis on this issue and holding such meetings is included in their software development process regulations and has become an official administrative process, which the programming team requires them to do this. Such an emphasis indicates the importance and efficiency of these meetings. However, most of the programming teams do not want to participate in these meetings due to some issues. In this training, we are going to examine these problems and provide solutions to hold these meetings better. Programmers who have had a bad previous experience in this field often raise issues such as:
+
+1- Some criticisms and opinions about the codes make the programmer feel that the critic only intends to ruin his image and has found an opportunity to attack his character and criticize his work.
+
+2- Some critics, instead of examining important and fundamental issues, only emphasize the structure and arrangement of codes, such as the way of indentations.
+
+3- In many cases, critics have not reviewed the codes before and enter the meeting without prior preparation.
+
+4- Sometimes only one sample part of the codes is checked and other important parts are ignored.
+
+5- Sometimes, the team will delay the code review until the main part of the code is complete, and then due to the large amount of information, the code review will be neither possible nor effective.
+
+6- In some cases, because the members enter the meeting with the view that they are supposed to perform only one administrative task on the order of the manager, they do not pay much attention to the flow of the meeting and do not spend enough energy to advance it.
+
+7- In some meetings, people who have nothing to do with the project are invited to the meeting, and this is a little worrying for the developers because they may express crude opinions!
+
+Issues like this, plus many others, make developers unwilling to participate in these meetings. Therefore, programming teams should look for ways to solve these problems so that they can take advantage of it.
+
+The first point that should be noted about review meetings is that the purpose of such meetings is not only to find errors in the codes, but these meetings should be aimed at sharing knowledge and awareness among team members and establishing common strategies. Coding will be held. Sharing code with other programmers gives people a sense of shared ownership of the code. In this way, everyone tries to work on the codes with others and instead of just looking for errors and mistakes, they try to understand the codes and find out their meaning and purpose, and to advance and improve them. to cooperate
+
+During the review session, try to remain calm and express your opinions gently and maintain the respect of others. Make sure your criticisms are constructive, not sarcastic and just meant to poke fun at others. Recognize the different roles in the review meeting so that you do not allow, for example, the opinion of the group manager to influence the opinions of others or prevent the truth from being told simply because he has a higher organizational position than others. For example, one type of role division can be such that one member focuses on documentation, another on exceptions, and the third person on functions and usability of codes. This method helps to ensure that all group members are responsible for the review and that all the participants of the meeting are active.
+
+Review codes regularly every week. Spend a few hours of your time attending these meetings. Select reviewers in rotation. Allow new team members to participate actively in these meetings. Maybe they have little work experience, however, because these people often just graduated from university and have new knowledge and awareness, they can create a different perspective in the group. Of course, the presence of professional and expert members is also necessary so that they can transfer their unique knowledge and experience to others. Such people can find error-prone codes more quickly and accurately than others.
+
+If all the code written by the programming team follows defined conventions and standards that can be controlled with certain tools, the flow of code review and review will be easier and faster, and in this way, the team in The review session does not waste its time on formatting and formatting the codes.
+
+Perhaps the most important thing that helps teams to reap the benefits of such meetings is to turn a boring and boring meeting into a lively and fun one. If the members of the meeting feel that their position is threatened, it is difficult to motivate them to participate in the next meetings. Code review meetings should be held informally with the main purpose of transferring knowledge and information among members. Everyone should try to create a friendly and stress-free atmosphere instead of sarcastic and provocative comments. Be sure that holding meetings in such an environment will improve the quality of the codes, ensure compliance with standards, and as a valuable educational tool, it will increase the knowledge and experience of developers.
+
 # Write your programs in the language of customers!
 
 As a programmer, the owners of various industries and businesses will probably approach you and order you work. To carry out these orders that are related to the work processes of customers, you can model those processes using the capabilities of different programming languages. For example, the owner of a store may order you a program to control the goods in the store's warehouse. Therefore, you should model a warehouse in which purchased and stored goods are recorded and their status can be tracked until they are available in the warehouse. Our advice to you is to write your program in the language of the ordering customer in these cases.
