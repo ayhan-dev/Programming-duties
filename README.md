@@ -1,3 +1,28 @@
+# which one? IDE or Editor, that's the problem!
+
+One of the points mentioned earlier in 97 Things Every Programmer Should Know was the issue of "hold your IDE like wax in your hands"; In this training, we said that a professional developer is someone who is so addicted to his IDE that he can easily access the parts of the software he uses and write code quickly by using shortcuts.
+
+Keep in mind that IDE stands for Integrated Development Environment, which means "integrated development environment for programming", which includes Eclipse, Visual Studio and IntelliJ IDEA among the famous and popular IDEs.
+But at the same time, some experts believe that IDEs - if not always, but at the beginning of learning coding principles - make developers lazy and dependent. Let us give some simple examples to clarify the reason for such an event.
+
+One of the unique features of IDEs is something called Code Completion; In other words, when you write the beginning of a pre-defined function name in your desired programming language, the software gives you suggestions to speed up your coding process and finally completes your function code.
+
+In addition, another very useful feature of IDEs is communication between different parts of the project; In other words, if we consider, for example, a language like PHP, when we intend to use a class from one of the project modules in a class in another module, we have to use the class in question, but this is while a software like Eclipse does this. automatically done for us so that even our souls will not know that such an action has been taken!
+
+These are just 2 examples of hundreds of effective, useful and unique uses of IDEs, and if we look at just one side of the coin, these 2 and hundreds more can be considered strengths of an IDE.
+
+But what about the other side of the coin?
+Some developers believe that on the other side of the coin, as long as beginner programmers use an IDE, it can be considered a disadvantage. Again, to clarify this issue, let us return to the 2 examples mentioned above.
+
+When we use an IDE and this software is only intended to make the coding process more enjoyable for us, and for example, when we write the name of a function such as explode in PHP, it automatically completes the continuation of the function name and even the parameters It also takes into account the default input.
+
+The negative point of this kind of work is that a developer - especially when he is at the beginning of coding - no longer has the basics of the desired language in his mind and is always dependent on the software to complete the codes, and if one day he is going to use software such as Nodepad for Windows, Gedit for Linux Or if TextMate Macintosh tries to edit the source code, it will almost certainly have problems in this regard.
+
+Or even when we said in the second example that Eclipse automatically uses the used classes, in the long run we may never realize the necessity of doing such a thing and since the used classes are always at the top of the file and usually we are also in the sections We add a code file at the bottom or try to refactor a part of the code, we never realize that this should be done and again, if one day we are going to start editing the source code with a simple editor, we may not pay attention to this. The problem leads to our confusion for many minutes - and maybe hours -.
+
+In general, IDEs are very good, but it seems that at the beginning of coding, more than being useful and helping the programmer in the long run, they make him lazy and dependent; Therefore, it is recommended that while learning the principles of coding or the basics of a programming language, you should always use simple editors such as the ones mentioned above, so that the principles and substructure of the language in question are embedded in your mind, then when you feel that you know well how to write different functions, for example what is the relationship between different parts of a specific programming language, etc., then you can use an IDE in order to increase your coding speed - which in itself is a sign of professionalism.
+
+
 # Management of exceptions
 
 An exception is a problem that occurs during program execution. When an exception occurs, the normal flow of the program is disrupted and the program or application terminates abnormally.
