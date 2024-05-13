@@ -240,6 +240,30 @@ What is certain is that choosing a combination of available tools for applicatio
 
 What is certain is that you will be the final decision maker, so you should develop as much as possible the codes that are related to the project infrastructure using the best available tools or frameworks and code the codes related to the specific module of your project personally.
 
+
+# When and how to use temporary solutions in coding?
+
+In response to the question of why some developers start using temporary solutions, it should be said that the main cause is unexpected problems that arise and must be fixed in the shortest possible time.
+
+In many software development teams, there are always parts that have never followed the coding standards and are not compatible with other parts of the source code, and finally one day they have to be refactored and find harmony with other parts of the system.
+
+There is no need to explain that most developers always complain about this issue; Although there are many reasons for the existence of these "temporary solutions", the key to the success of these solutions is their practicality!
+
+Due to the fact that Interim Solutions (temporary solutions) have become useful and have been accepted by some developers, few people can be found who take a step to fix them because they are useful, practical and problem-solving, and the only weakness they have is that the coding standards (Of course, this is not a problem in many software companies and development teams).
+
+Now, there may be times when after implementing temporary solutions to fix a bug or add a new feature, the software gets into trouble after a while, and since the coding standards are not applied in the implementation of such solutions, it is not possible to simply use it according to the routine. He tried to solve the problems.
+
+In response to the question, what should be done in such situations? It should be said that temporary updates usually respond to bugs in temporary solutions, and in terms of nature, temporary updates are exactly like temporary solutions, except that they are a little more updated.
+
+Always remember that when a project contains many temporary solutions, on the one hand, the complexity of the source code will increase, and on the other hand, the maintenance, updating and debugging of the software will be much more difficult. As a general best practice, when you encounter a problem in the software development process, first perform the following steps in order of priority:
+
+1- Avoid offering temporary solutions as much as possible. Refusals like this are not the solution in many cases, because there may be a serious problem that needs to be solved as soon as possible, and if the project developer wants to consider the standards he used before in solving the current problem, this The standards will be cumbersome, but it is still recommended as a first attempt.
+
+2- As much as possible, resist the insistence of the project manager in order to apply a specific feature in the shortest possible time. In some cases, the project manager's insistences are not as enforceable as he pretends to be, and therefore there is no harm in resisting his insistence to some extent.
+
+3- If you have to do this, follow the minimum coding standards as much as possible. In other words, if you group coding guidelines and standards, you can apply such solutions to those standards that are much more important than others and ignore the rest.
+
+
 # What is the user's need?
 
 All those who program think that the users of the program or application they develop think like them and they believe that other users will have the same relationship that they have with their program, which is a very wrong idea. Such a belief is called False Consensus Bias from the point of view of psychology. It is interesting to know that when users interact with the program written by us in a way that is contrary to our expectations, we label them "a non-professional user"! But this is if we are non-professional programmers who have not identified the needs of our target community very well!
