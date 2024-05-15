@@ -1,3 +1,20 @@
+
+# What is called professional programming?
+
+The main characteristic of a professional programmer is responsibility. Professional programmers take responsibility for what they do, their predictions, their commitments, and their mistakes, and they don't point the finger of blame at other developers under any circumstances.
+
+If you want to be labeled as a professional, you must always take responsibility for what you do; You are responsible for being up-to-date in your field of work and the latest technologies on the market. It is interesting to know that there are many novice developers who believe that it is the duty of their employer to teach them, but this notion is completely wrong! No employer has enough time and money to start training and updating each and every member of his software development team, knowing that in the not too distant future, he will lose his developer (it should be noted that the life of developers in software companies is more than not 3 to 4 years).
+
+Again, if you want to be seen as a professional, you must accept 100% responsibility for the code you write. We don't know any professional developers who release their code before making sure it works. In fact, professional developers are not at all afraid of QA specialists (this term stands for Quality Assurance) because they know that they will not find any bugs in the code they have written.
+
+Another characteristic of professional developers is that they are skilled in team work. They are responsible for the output of the entire team, and under no circumstances do we hear from them that "I only wrote X and this code is not mine". Professional developers help their colleagues - especially those who are newbies -, teach each other, learn from each other and in a word, support others.
+
+Programmers who have decided to be among the professionals of their work industry, under no circumstances tolerate a long list of bugs in the software and try to fix it as soon as they encounter a bug - be it small or big.
+
+Clean coding is another characteristic of professional developers. The code written by a professional developer is very clean with a structure that is comprehensible and readable at the same time compared to a non-professional person. Professional developers always use coding standards (Best Practices) during coding, and this issue will lead to the fact that other developers will not have problems reading their source code.
+
+In a word, professionals are responsible people; In other words, those who take responsibility for their work and try to write code that is optimal and works best. When faced with a lack of time, professional developers never code on the spur of the moment and under no circumstances violate their rigid coding standards to meet a deadline, but on the contrary, in such situations, they stick to the standards more because they know that in the circumstances Stressful, the possibility of error will be very high.
+
 # which one? IDE or Editor, that's the problem!
 
 One of the points mentioned earlier in 97 Things Every Programmer Should Know was the issue of "hold your IDE like wax in your hands"; In this training, we said that a professional developer is someone who is so addicted to his IDE that he can easily access the parts of the software he uses and write code quickly by using shortcuts.
