@@ -15,6 +15,24 @@ Clean coding is another characteristic of professional developers. The code writ
 
 In a word, professionals are responsible people; In other words, those who take responsibility for their work and try to write code that is optimal and works best. When faced with a lack of time, professional developers never code on the spur of the moment and under no circumstances violate their rigid coding standards to meet a deadline, but on the contrary, in such situations, they stick to the standards more because they know that in the circumstances Stressful, the possibility of error will be very high.
 
+# Learn more than one programming language at the same time
+
+The philosophy of programming states that "programming skill is directly related to the different programming paradigms a programmer uses to code and feels comfortable with, rather than what little knowledge he may have of a programming language." have more!"
+
+Every programmer enters the world of programming with a programming language, and it is interesting to know that that language has a significant impact on a person's approach to software development; It doesn't matter how many years a programmer has been coding with his chosen language, but as long as he is working with that language, it can be said that he only knows that language. It is interesting to know that so-called monolingual programmers limit their thinking to the capabilities of that language, but a programmer who tries to learn a second language, his mentality about software development will be challenged, especially if the second language is from In terms of structure, it has deep differences compared to the first language.
+
+To clarify this issue, we give an example; C, Pascal and Fortran languages have almost the same structural models, so if someone knows C language and chooses Fortran as his second language, he will definitely not face many challenges, but migrating from languages like C or Fortran In another language, such as C++ or Ada, the programmer will face many different situations in the field of how the programming language works, and consequently, migrating from C++ to Haskell will be a double challenge.
+
+In fact, there are different programming paradigms, including Procedural, Object-oriented, Functional, etc., which are structurally different from each other, and in case of migration among these paradigms, you have to wait There will be many challenges!
+
+The point that we should keep in mind here is that these challenges are never bad, but we should welcome them because different programming paradigms change our view of software development because a specific problem in a The programming language may be solved in a relatively difficult way if, according to the paradigms applied in another language, the answer to that problem is available to us with much less trouble, and it is in such a situation that we can Realize both languages.
+
+In general, professional programmers are not afraid of learning new languages and are interested in learning new languages; Even if they only use one programming language in their daily coding, they are still eager to learn other languages because they know that other languages - especially if they come from a different paradigm than what their current language offers - have a different approach to solving problems. They put it at their discretion.
+
+Managers of software companies should dedicate a part of their software development team's working time to learning new languages, even if no project is going to be written in new languages, because adopting such an approach leads to a more open view of the company's programmers towards the same. The language they use on a daily basis.
+
+In the end, it should be mentioned that learning a language is not only limited to learning its syntax and writing a Hello World program, but requires months of continuous work and writing different projects with that language and getting involved with different parts of the language. has it.
+
 # which one? IDE or Editor, that's the problem!
 
 One of the points mentioned earlier in 97 Things Every Programmer Should Know was the issue of "hold your IDE like wax in your hands"; In this training, we said that a professional developer is someone who is so addicted to his IDE that he can easily access the parts of the software he uses and write code quickly by using shortcuts.
